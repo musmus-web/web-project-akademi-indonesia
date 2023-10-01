@@ -1,2 +1,10 @@
 
 console.log('hai ganteng!)
+console.log('hai ganteng!)
+console.log('hai ganteng!)
+console.log('hai ganteng!)
+console.log('hai ganteng!)
+console.log('hai ganteng!)
+console.log('hai ganteng!)
+console.log('hai ganteng!)
+console.log('hai ganteng!)
